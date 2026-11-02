@@ -60,6 +60,12 @@ Talk: Xcode Essencial: A Arte de Criar Apps Apple<br>
 Arquivo: BsidesSP - Xcode Essencial.pdf<br>
 Palestrante: Zoziel Freire<br>
 
+> ### Organização
+> Ricardo L0gan <br>
+> Zoziel Freire <br>
+> Roberto Espret0 <br>
+> Bruno Naves <br>
+
 ### Autoria e uso dos materiais
 
 Os créditos de cada apresentação estão indicados na listagem e nos próprios materiais.
