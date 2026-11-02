@@ -1,6 +1,6 @@
-ARTV — Apple Red Team Village
+# ARTV — Apple Red Team Village
 
-Segurança e pesquisa no ecossistema Apple.
+> Segurança e pesquisa no ecossistema Apple.
 
 ARTV (Apple Red Team Village) é um espaço dedicado à troca de conhecimento sobre segurança em dispositivos e sistemas Apple, com foco em pesquisa de vulnerabilidades e segurança ofensiva.
 
@@ -19,49 +19,49 @@ Eventos e materiais
 - [307Conf 2026](#307conf-2026) - Em Breve
 
 ### BSidesSP 2025
-Apple Red Team Village & Exploit Village
-Site: https://securitybsides.com.br/2025/atividades
+Apple Red Team Village & Exploit Village <br>
+Site: https://securitybsides.com.br/2025/atividades<br>
 
-📄 Materiais em breve.
+Slides em breve.
 
 ### 307Conf 2025
-Apple Red Team Village
-Site: https://307conf.com.br/pt-br/villages/apple-redteam
+Apple Red Team Village<br>
+Site: https://307conf.com.br/pt-br/villages/apple-redteam<br>
 
-Talk: The Anatomy of iOS Security in 2025
-Arquivo: 2025 - 307Conf - Anatomy of iOS Security 2025.pdf
-Palestrante: Bruno Sena
+Talk: The Anatomy of iOS Security in 2025<br>
+Arquivo: 2025 - 307Conf - Anatomy of iOS Security 2025.pdf<br>
+Palestrante: Bruno Sena<br>
 
-Talk: Security Compliance em macOS
-Arquivo: 2025 - 307Conf - Security Compliance em MacOS.pdf
-Palestrante: Natalia Sampaio
+Talk: Security Compliance em macOS<br>
+Arquivo: 2025 - 307Conf - Security Compliance em MacOS.pdf<br>
+Palestrante: Natalia Sampaio<br>
 
 ### BSidesSP 2026
-Apple Red Team Village
+Apple Red Team Village<br>
 Site: https://securitybsides.com.br/2026/apple-red-team-village-artv
 
-Talk: Basic Pentest Mobile iOS: Entenda, não apenas rode Scripts
-Arquivo: BsidesSP - Basic Pentest Mobile iOS - Workshop.pdf
-Palestrante: Rodolgo & Caio
+Talk: Basic Pentest Mobile iOS: Entenda, não apenas rode Scripts<br>
+Arquivo: BsidesSP - Basic Pentest Mobile iOS - Workshop.pdf<br>
+Palestrante: Rodolgo & Caio<br>
 
-Talk: iOS Patch Diffing
-Arquivo: BsidesSP - iOS Patch Diffing.pdf
-Palestrante: Bruno Naves
+Talk: iOS Patch Diffing<br>
+Arquivo: BsidesSP - iOS Patch Diffing.pdf<br>
+Palestrante: Bruno Naves<br>
 
-Talk: O por que o RASP existe
-Arquivo: BsidesSP - RASP.pdf
-Palestrante: Kelvin Clark
+Talk: O por que o RASP existe<br>
+Arquivo: BsidesSP - RASP.pdf<br>
+Palestrante: Kelvin Clark<br>
 
-Talk: Vamos fazer funcionar no Windows mac a gente vê depois
-Arquivo: BsidesSP - Vamos fazer funcionar no windows Mac a gente ve depois.pdf
-Palestrante: Natalia Sampaio
+Talk: Vamos fazer funcionar no Windows mac a gente vê depois<br>
+Arquivo: BsidesSP - Vamos fazer funcionar no windows Mac a gente ve depois.pdf<br>
+Palestrante: Natalia Sampaio<br>
 
-Talk: Xcode Essencial: A Arte de Criar Apps Apple
-Arquivo: BsidesSP - Xcode Essencial.pdf
-Palestrante: Zoziel Freire
+Talk: Xcode Essencial: A Arte de Criar Apps Apple<br>
+Arquivo: BsidesSP - Xcode Essencial.pdf<br>
+Palestrante: Zoziel Freire<br>
 
 ### Autoria e uso dos materiais
 
-Os créditos de cada apresentação estão indicados na listagem e nos próprios materiais. Ao citar uma pesquisa ou apresentação, informe seus autores e inclua um link para a fonte.
+Os créditos de cada apresentação estão indicados na listagem e nos próprios materiais.
 
-ARTV — Apple Red Team Village · Compartilhando conhecimento sobre segurança e pesquisa em Apple devices.
+> ARTV — Apple Red Team Village · Compartilhando conhecimento sobre segurança e pesquisa em Apple devices.
