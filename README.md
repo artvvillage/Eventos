@@ -28,12 +28,12 @@ Arquivo: Em Breve <br>
 Palestrante: Mateus Lino <br>
 
 Talk: MacOS Malware: Breaking Barriers <br>
-Arquivo: Em Breve <br>
+Arquivo: 2025 - MacOS Malware Breaking Barriers.pdf <br>
 Palestrante: Zoziel Freire<br>
 
 ### 307Conf 2025
 Apple Red Team Village<br>
-Site: https://307conf.com.br/pt-br/villages/apple-redteam<br>
+Site: https://307c.tmp.br<br>
 
 Talk: The Anatomy of iOS Security in 2025<br>
 Arquivo: 2025 - 307Conf - Anatomy of iOS Security 2025.pdf<br>
@@ -42,6 +42,10 @@ Palestrante: Bruno Sena<br>
 Talk: Security Compliance em macOS<br>
 Arquivo: 2025 - 307Conf - Security Compliance em MacOS.pdf<br>
 Palestrante: Natalia Sampaio<br>
+
+Workshop: Inside the Mind of a Malware Developer<br>
+Arquivo: 2025 - 307Conf - Inside the Mind of a Malware Developer<br>
+Palestrante: Zoziel Freire<br>
 
 ### BSidesSP 2026
 Apple Red Team Village<br>
@@ -82,6 +86,10 @@ Palestrante: Thiago Rodrigues <br>
 Workshop: Em Breve <br>
 Arquivo: Em Breve <br>
 Palestrantes: Rodolfo & Caio <br>
+
+### 307Conf 2026
+
+Em Breve
 
 > ### Organização
 > Ricardo L0gan <br>
