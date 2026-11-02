@@ -79,9 +79,9 @@ Talk: Seu Mac esta atualizado ou infectado? <br>
 Arquivo: 2026 - MindTheSec - Seu Mac esta atualizado ou infectado?.pdf <br>
 Palestrante: Thiago Rodrigues <br>
 
-Workshop: Em Breve
-Arquivo: Em Breve
-Palestrantes: Rodolfo & Caio
+Workshop: Em Breve <br>
+Arquivo: Em Breve <br>
+Palestrantes: Rodolfo & Caio <br>
 
 > ### Organização
 > Ricardo L0gan <br>
