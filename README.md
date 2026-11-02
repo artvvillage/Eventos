@@ -16,13 +16,20 @@ Eventos e materiais
 - [BSidesSP 2025](#bsidessp-2025)
 - [307Conf 2025](#307conf-2025)
 - [BSidesSP 2026](#bsidessp-2026)
+- [MindTheSec 2026](#mts-2026)
 - [307Conf 2026](#307conf-2026) - Em Breve
 
 ### BSidesSP 2025
 Apple Red Team Village & Exploit Village <br>
 Site: https://securitybsides.com.br/2025/atividades<br>
 
-Slides em breve.
+Talk: iOS Malware <br>
+Arquivo: Em Breve <br>
+Palestrante: Mateus Lino <br>
+
+Talk: MacOS Malware: Breaking Barriers <br>
+Arquivo: Em Breve <br>
+Palestrante: Zoziel Freire<br>
 
 ### 307Conf 2025
 Apple Red Team Village<br>
@@ -40,9 +47,9 @@ Palestrante: Natalia Sampaio<br>
 Apple Red Team Village<br>
 Site: https://securitybsides.com.br/2026/apple-red-team-village-artv
 
-Talk: Basic Pentest Mobile iOS: Entenda, não apenas rode Scripts<br>
+Workshop: Basic Pentest Mobile iOS: Entenda, não apenas rode Scripts<br>
 Arquivo: BsidesSP - Basic Pentest Mobile iOS - Workshop.pdf<br>
-Palestrante: Rodolgo & Caio<br>
+Palestrante: Rodolfo & Caio<br>
 
 Talk: iOS Patch Diffing<br>
 Arquivo: BsidesSP - iOS Patch Diffing.pdf<br>
@@ -59,6 +66,22 @@ Palestrante: Natalia Sampaio<br>
 Talk: Xcode Essencial: A Arte de Criar Apps Apple<br>
 Arquivo: BsidesSP - Xcode Essencial.pdf<br>
 Palestrante: Zoziel Freire<br>
+
+### Mind The Sec 2026
+Apple Red Team Village<br>
+Site: https://www.mindthesec.com.br<br>
+
+Talk: Debugging macOS <br>
+Arquivo: 2026 - MindTheSec - Debugging macOS - Slidev.pdf <br>
+Palestrante: Igor Franca_ <br>
+
+Talk: Seu Mac esta atualizado ou infectado? <br>
+Arquivo: 2026 - MindTheSec - Seu Mac esta atualizado ou infectado?.pdf <br>
+Palestrante: Thiago Rodrigues <br>
+
+Workshop: Em Breve
+Arquivo: Em Breve
+Palestrantes: Rodolfo & Caio
 
 > ### Organização
 > Ricardo L0gan <br>
